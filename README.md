@@ -1,5 +1,7 @@
 # Hair by Amber
 
+**Live Website:** [http://hair-amber.butterfly-ai.co.uk/](http://hair-amber.butterfly-ai.co.uk/)
+
 Professional website for **Hair by Amber**, a freelance mobile hairdresser covering Slough and surrounding areas.
 
 ## Features
