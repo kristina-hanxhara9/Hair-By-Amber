@@ -1,11 +1,77 @@
-<div align="center">
+# Hair by Amber
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Professional website for **Hair by Amber**, a freelance mobile hairdresser covering Slough and surrounding areas.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop.
+- **Services & Pricing**: Clear, categorized price list with a modern masonry layout.
+- **Gallery**: Portfolio section showcasing recent work.
+- **Contact Integration**:
+  - Direct "Book Now" consultation form.
+  - WhatsApp "Ask anything" button.
+  - One-tap phone dialing.
+- **Modern Styling**: Built with Tailwind CSS and Framer Motion for smooth animations.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide React](https://lucide.dev/) (Icons)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hair-by-amber.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd hair-by-amber
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running Locally
+
+To start the development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:3000`.
+
+### Building for Production
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+The output will be in the `dist` directory.
+
+## Deployment
+
+This project is ready to be deployed to platforms like Vercel, Netlify, or GitHub Pages.
+
+### GitHub Pages
+
+To deploy to GitHub Pages, you may need to install `gh-pages` and add a deploy script to `package.json`.
+
+## License
+
+This project is private and proprietary to Hair by Amber.
